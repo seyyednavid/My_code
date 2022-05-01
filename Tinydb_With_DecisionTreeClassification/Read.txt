@@ -1,3 +1,3 @@
 # Read from csv file and save in TinyDB .
 # If the inputs were repetitive , they will not save again in TinyDB, and TinyDB return the result.
-# If the inputs are new, result savi in TinyDB
+# If the inputs are new, result save in TinyDB
